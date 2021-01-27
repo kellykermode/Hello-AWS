@@ -1,1 +1,1 @@
-# aws
+# AWS resources and links
