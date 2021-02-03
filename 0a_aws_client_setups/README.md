@@ -1,4 +1,4 @@
-#Originally published by Lynn Langit.
+Originally published by Lynn Langit.
 
 # Client Tools for AWS
 
