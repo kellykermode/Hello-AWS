@@ -6,8 +6,8 @@
 
 - Open Source Guide put together and maintained by AWS Power Users
 [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
-- [Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
-- [AWS Global Cloud Infrastructure](https://www.infrastructure.aws/)
+- Overview of AWS Infrastructure [link](https://aws.amazon.com/about-aws/global-infrastructure/)
+- Interactive tool to Explore AWS Infrastructure [link](https://www.infrastructure.aws/)
 - [Creating a hosted virtual interface - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/UserGuide/createhostedvirtualinterface.html)
 - [Allocate-private-virtual-interface — AWS CLI 1.18.223 Command Reference](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-private-virtual-interface.html)
 - [AllocatePrivateVirtualInterface - AWS Direct Connect](https://docs.aws.amazon.com/directconnect/latest/APIReference/API_AllocatePrivateVirtualInterface.html)
